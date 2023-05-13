@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for chat_gpt_selenium_client."""
 
 from .cli import main  # pragma: no cover
 
